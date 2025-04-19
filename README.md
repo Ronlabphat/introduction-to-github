@@ -1,59 +1,76 @@
-# Introduction to GitHub
+Bàn phím cơ  Anne Pro 2 là một trong những bàn phím cơ 60% được yêu thích nhất trên thị trường hiện nay, nổi bật với thiết kế nhỏ gọn, hiệu năng gõ phím tuyệt vời và khả năng tùy biến cao. Bài viết này sẽ cung cấp cho bạn cái nhìn toàn diện về sản phẩm, từ thiết kế, tính năng, hiệu năng đến những ưu nhược điểm cần cân nhắc trước khi quyết định sở hữu.
 
-<!-- ![](../../actions/workflows/0-start-exercise.yml/badge.svg) -->
-![](../../actions/workflows/1-create-a-branch.yml/badge.svg)
-![](../../actions/workflows/2-commit-a-file.yml/badge.svg)
-![](../../actions/workflows/3-open-a-pull-request.yml/badge.svg)
-![](../../actions/workflows/4-merge-your-pull-request.yml/badge.svg)
+1. Thiết Kế Nhỏ Gọn, Tối Ưu Hóa Không Gian:
 
-_Get started using GitHub in less than an hour._
+Layout 60% Siêu Gọn Nhẹ:
 
-## Welcome
+Bàn phím cơ Anne Pro 2 sở hữu layout 60%, loại bỏ hoàn toàn phần numpad và các phím chức năng không cần thiết, giúp tối ưu hóa không gian bàn làm việc một cách tối đa.
+Thiết kế này đặc biệt phù hợp với những người dùng yêu thích sự gọn gàng, tối giản, đặc biệt là game thủ và người dùng thường xuyên di chuyển.
+Chất Liệu Cao Cấp, Hoàn Thiện Tỉ Mỉ:
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” exercise guides you through everything you need to start contributing in less than an hour.
+Vỏ bàn phím cơ Anne Pro 2 được làm từ chất liệu nhựa ABS cao cấp, mang lại cảm giác chắc chắn và bền bỉ.
+Keycap PBT double-shot, cho cảm giác gõ phím tuyệt vời và độ bền cao, chống mài mòn và không bị bóng sau thời gian dài sử dụng.
+Các chi tiết được hoàn thiện tỉ mỉ, mang lại vẻ đẹp sang trọng và đẳng cấp cho bàn phím cơ.
+Thiết Kế Đơn Giản, Thanh Lịch:
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This exercise is a great introduction for your first day on GitHub.
-- **How long**: This exercise takes less than one hour to complete.
+Bàn phím cơ Anne Pro 2 có thiết kế đơn giản, thanh lịch, phù hợp với nhiều không gian làm việc khác nhau.
+Màu sắc và họa tiết được lựa chọn kỹ lưỡng, mang lại vẻ đẹp tinh tế và độc đáo.
 
-In this exercise, you will:
 
-1. Create a branch
-2. Commit a file
-3. Open a pull request
-4. Merge your pull request
+2. Hiệu Năng Gõ Phím Vượt Trội:
 
-### How to start this exercise
+Switch Gateron Hoặc Kailh Chất Lượng Cao:
 
-1. Right-click **Copy Exercise** and open the link in a new tab.
+Bàn phím cơ Anne Pro 2 sử dụng switch Gateron hoặc Kailh, mang lại trải nghiệm gõ phím tuyệt vời và độ bền cao.
+Người dùng có thể lựa chọn nhiều loại switch Gateron hoặc Kailh khác nhau để phù hợp với sở thích cá nhân.
+Cảm Giác Gõ Phím Mượt Mà, Êm Ái:
 
-   <a id="copy-exercise" href="https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public">
-      <img src="https://img.shields.io/badge/📠_Copy_Exercise-008000" height="25pt"/>
-   </a>
+Cấu trúc bàn phím cơ được tối ưu hóa để giảm thiểu tiếng ồn và rung động, mang lại trải nghiệm gõ phím mượt mà và êm ái.
+Keycap PBT có bề mặt nhám, cho cảm giác gõ phím chắc chắn và thoải mái.
+Độ Ổn Định Tuyệt Vời:
 
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
+Bàn phím cơ Anne Pro 2 có độ ổn định tuyệt vời, không bị rung lắc khi gõ phím mạnh.
+Các phím dài (Spacebar, Shift, Enter) được gia cố chắc chắn, mang lại cảm giác gõ phím đồng đều.
 
-3. After your new repository is created, wait about 20 seconds for the exercise to be prepared and buttons updated. You will continue working from your copy of the exercise.
-   - The **Copy Exercise** button will deactivate, changing to gray.
-   - The **Start Exercise** button will activate, changing to green.
-   - You will likely need to refresh the page.
+3. Tính Năng Nổi Bật:
 
-4. Click **Start Exercise**. Follow the step-by-step instructions and feedback will be provided as you progress.
+Keycap PBT Double-Shot Chất Lượng Cao:
 
-   <a id="start-exercise">
-      <img src="https://img.shields.io/badge/🚀_Start_Exercise-AAA" height="25pt"/>
-   </a>
+Keycap PBT double-shot, cho cảm giác gõ phím tuyệt vời và độ bền cao, chống mài mòn và không bị bóng sau thời gian dài sử dụng.
+Hỗ Trợ NKRO (N-key Rollover):
 
-> [!IMPORTANT]
-> The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page.
+Hỗ trợ NKRO, đảm bảo nhận tất cả các phím bấm cùng lúc, không bị hiện tượng "ghosting".
+Kết Nối Bluetooth 5.0:
 
----
+Cho phép kết nối không dây với nhiều thiết bị khác nhau, mang lại sự linh hoạt tối đa.
+LED RGB Tùy Chỉnh:
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Hệ thống đèn LED RGB rực rỡ với nhiều hiệu ứng ánh sáng đẹp mắt, có thể tùy chỉnh theo sở thích cá nhân.
+Phần Mềm Tùy Chỉnh Mạnh Mẽ:
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Phần mềm ObinsKit cho phép người dùng tùy chỉnh keymap, macro và LED RGB một cách dễ dàng.
+
+4. Ưu Điểm Nổi Bật:
+
+Thiết kế nhỏ gọn, tối ưu hóa không gian.
+Hiệu năng gõ phím vượt trội.
+Keycap PBT double-shot chất lượng cao.
+Kết nối Bluetooth 5.0 tiện lợi.
+LED RGB tùy chỉnh đẹp mắt.
+
+5. Nhược Điểm Cần Cân Nhắc:
+
+Giá thành cao.
+Layout 60% có thể gây khó khăn cho người dùng mới.
+
+6. Đối Tượng Người Dùng:
+
+Game thủ chuyên nghiệp.
+Người dùng yêu thích sự gọn gàng, tối giản.
+Người dùng thường xuyên di chuyển.
+Người dùng muốn tùy biến bàn phím theo phong cách cá nhân.
+
+7. Kết Luận:
+
+Tìm hiểu thêm về bàn phím cơ không dây gaming ZADEZ trên website của chúng tôi ngay tại đây. Xem video đánh giá chi tiết trên kênh YouTube. Đặt mua ngay hôm nay tại đây để trải nghiệm sự tự do chiến game.
+website : https://catfishkeyboard.com/
